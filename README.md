@@ -49,7 +49,7 @@ If you find the repository useful, please cite the following paper:
 ```bibtex
 @inproceedings{guo2024classifier,
 title={Classifier-guided Gradient Modulation for Enhanced Multimodal Learning},
-author={Guo, Zirun and Jin, Tao and Chen, Jingyuan and Zhao, Zhou}},
+author={Guo, Zirun and Jin, Tao and Chen, Jingyuan and Zhao, Zhou},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024}
 }
