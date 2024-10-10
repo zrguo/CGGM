@@ -37,10 +37,23 @@ python mosi_run.py --data_path "mosipath" --modulation "cggm" --batch_size 64 --
 If you want to evaluate the performance on Food 101 dataset, you can run the `food_fun.py` file:
 
 ```bash
-python mosi_run.py --data_path "foodpath" --vit "pre-trained vit path" --bert "pre-trained bert path" --modulation "cggm"
+python food_run.py --data_path "foodpath" --vit "pre-trained vit path" --bert "pre-trained bert path" --modulation "cggm"
 ```
 
 
+
+## Citation
+
+If you find the repository useful, please cite the following paper:
+
+```bibtex
+@inproceedings{guo2024classifier,
+title={Classifier-guided Gradient Modulation for Enhanced Multimodal Learning},
+author={Guo, Zirun and Jin, Tao and Chen, Jingyuan and Zhao, Zhou}},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024}
+}
+```
 
 
 
